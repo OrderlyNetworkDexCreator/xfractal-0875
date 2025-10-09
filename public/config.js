@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Rewards",
-  "VITE_CUSTOM_MENUS": "Docs, https://doc.xfractal.fun",
+  "VITE_CUSTOM_MENUS": "Docs, https://docs.xfractal.fun; Agents, https://xfractal.fun/aya",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/xFractalDotFunChannel",
   "VITE_DISCORD_URL": "",
@@ -34,5 +34,5 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,es,zh,de",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00FF87\",\"downColor\":\"#ec0033\",\"pnlUpColor\":\"#00FF87\",\"pnlDownColor\":\"#ec0033\",\"chartBG\":\"#0E0D12\"}"
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00FF87\",\"downColor\":\"#ec3f69\",\"pnlUpColor\":\"#00FF87\",\"pnlDownColor\":\"#EC3F6A\",\"chartBG\":\"#0E0D12\"}"
 };
