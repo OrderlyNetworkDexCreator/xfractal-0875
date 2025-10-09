@@ -1,14 +1,15 @@
 :root {
-  --oui-font-family: 'Manrope', sans-serif;
+  --oui-font-family: 'Raleway', sans-serif;
+  --oui-font-size-base: 14px;
 
   /* colors */
-  --oui-color-primary: 176 132 233;
-  --oui-color-primary-light: 213 190 244;
-  --oui-color-primary-darken: 137 76 209;
+  --oui-color-primary: 233 0 198;
+  --oui-color-primary-light: 244 77 199;
+  --oui-color-primary-darken: 108 11 78;
   --oui-color-primary-contrast: 255 255 255;
 
-  --oui-color-link: 189 107 237;
-  --oui-color-link-light: 217 152 250;
+  --oui-color-link: 221 53 237;
+  --oui-color-link-light: 250 73 225;
 
   --oui-color-secondary: 255 255 255;
   --oui-color-tertiary: 218 218 218;
@@ -32,8 +33,8 @@
   --oui-color-fill: 36 32 47;
   --oui-color-fill-active: 40 46 58;
 
-  --oui-color-base-1: 93 83 123;
-  --oui-color-base-2: 81 72 107;
+  --oui-color-base-1: 54 15 55;
+  --oui-color-base-2: 106 25 107;
   --oui-color-base-3: 68 61 69;
   --oui-color-base-4: 57 52 74;
   --oui-color-base-5: 51 46 66;
@@ -91,4 +92,9 @@
   --oui-spacing-md: 26.25rem;
   --oui-spacing-lg: 30rem;
   --oui-spacing-xl: 33.75rem;
+}
+
+html, body {
+  font-family: 'Raleway', sans-serif !important;
+  font-size: 14px !important;
 }
