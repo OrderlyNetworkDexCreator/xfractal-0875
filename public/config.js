@@ -6,7 +6,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_MAINNET_CHAINS": "900900900",
   "VITE_ORDERLY_TESTNET_CHAINS": "421614,84532,97,901901901,11124",
   "VITE_DEFAULT_CHAIN": "900900900",
-  "VITE_PRIVY_APP_ID": "cmcmahli0050ql80n1f9wnawb",
+  "VITE_PRIVY_APP_ID": "",
   "VITE_PRIVY_LOGIN_METHODS": "email,google",
   "VITE_PRIVY_TERMS_OF_USE": "",
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Solana Dex for degens",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Vaults,Portfolio,Leaderboard,Rewards",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Rewards",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/xFractalDotFunChannel",
@@ -34,5 +34,5 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,es,zh,de",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00C896\",\"downColor\":\"#f727e4\",\"pnlUpColor\":\"#00C896\",\"pnlDownColor\":\"#f723d6\",\"chartBG\":\"#131722\"}"
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00FF87\",\"downColor\":\"#ec0033\",\"pnlUpColor\":\"#00FF87\",\"pnlDownColor\":\"#ec0033\",\"chartBG\":\"#080a0f\"}"
 };
