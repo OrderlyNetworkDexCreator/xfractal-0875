@@ -17,7 +17,7 @@
 
   --oui-color-danger: 245 77 83;
   --oui-color-danger-light: 250 167 188;
-  --oui-color-danger-darken: 227 0 187;
+  --oui-color-danger-darken: 227 13 48;
   --oui-color-danger-contrast: 255 255 255;
 
   --oui-color-success: 41 233 169;
@@ -47,7 +47,7 @@
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 255 255 255;
 
-  --oui-color-trading-loss: 245 72 91;
+  --oui-color-trading-loss: 227 0 187;
   --oui-color-trading-loss-contrast: 255 255 255;
   --oui-color-trading-profit: 41 233 169;
   --oui-color-trading-profit-contrast: 255 255 255;
