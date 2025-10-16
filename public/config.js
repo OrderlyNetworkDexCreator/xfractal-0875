@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/xFractalDotFun",
   "VITE_SEO_SITE_NAME": "xFractal",
   "VITE_SEO_SITE_DESCRIPTION": "Solana Dex for degens",
-  "VITE_SEO_SITE_URL": "https://dex.xfractal.fun",
+  "VITE_SEO_SITE_URL": "https://testnet.xfractal.fun",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@xfractaldotfun",
